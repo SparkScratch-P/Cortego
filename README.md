@@ -87,6 +87,12 @@ To host **Cortego** , first *fork* this repository. All u need to do is , go to 
   ```
 
  Now, in the line that says ` let cloudHost = "ws://localhost:3000/";` , change the `ws://` value to ur own personal Websocket Server.
+ 
+ 
+ Create a Wesocket
+ ---
+ 
+ Quide Available by SheepTester [here](https://github.com/SheepTester/primitive-cloud-server#primitive-cloud-server)
 
 
 ### Enjoy with ur Team and Friends!
