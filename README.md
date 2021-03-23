@@ -6,8 +6,8 @@ Host your personal Chat room from ur own Server
  
  UI Customized for use in ***Company Discussions, Friends Online Group chat, Team Planning, Broadcasts, etc.***
 
-An example for Cortego is available at https://sparkscratch-p.github.io/cortego/ ( Cloud Variables wont work )
-Default websocket : ws://localhost:3000/ (not active)
+ An example for Cortego is available at https://sparkscratch-p.github.io/cortego/ ( Cloud Variables wont work )
+ Default websocket : `ws://localhost:3000/` (not active)
 
 
 ## How to use Cortego?
