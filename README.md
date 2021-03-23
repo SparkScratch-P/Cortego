@@ -1,4 +1,4 @@
-# Cortego
+# SPARK Cortego
 
 Host your personal Chat room from ur own Server
 ---
@@ -89,7 +89,7 @@ To host **Cortego** , first *fork* this repository. All u need to do is , go to 
  Now, in the line that says ` let cloudHost = "ws://localhost:3000/";` , change the `ws://` value to ur own personal Websocket Server.
  
  
- Create a Wesocket
+ Create a Websocket
  ---
  
  Quide Available by SheepTester [here](https://github.com/SheepTester/primitive-cloud-server#primitive-cloud-server)
