@@ -16,14 +16,14 @@ The UI
 ---
 
  Cortego cant be used as it is not readily available in this repo.
-  This repository has all the coding and assets for setting up Cortego in its `main` branch.
+   This repository has all the coding and assets for setting up Cortego in its `main` branch.
   
-  The room name is **Chat Room** by default.
+   The room name is **Chat Room** by default.
   
-  The Default Admin name for Cortego is **Sparkscratch_P**
-  Once this name is entered, it asks for an Admin password
-  The Admin Password by default is **12345**
-  In stead, when any other name is entered in its place, it asked for a general Password. Enter **qwerty** to enter the room.
+   The Default Admin name for Cortego is **Sparkscratch_P**
+   Once this name is entered, it asks for an Admin password
+   The Admin Password by default is **12345**
+   In stead, when any other name is entered in its place, it asked for a general Password. Enter **qwerty** to enter the room.
   
   Once entered as an Admin, you can do the following things by clicking on the `security` button on top-left of screen.:
   
