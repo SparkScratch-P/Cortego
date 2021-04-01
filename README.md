@@ -95,7 +95,7 @@ To host **Cortego** , first *fork* this repository. All u need to do is , go to 
  Quide Available by SheepTester [here](https://github.com/SheepTester/primitive-cloud-server#primitive-cloud-server)
 
 
-### Enjoy with ur Team and Friends!
+### Enjoy with ur Squad !
 
 # Head Onn!
 
